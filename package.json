@@ -1,0 +1,19 @@
+{
+  "name": "passerelle_de_memoire",
+  "version": "1.0.0",
+  "description": "LAB 201 @ l'Ecole Multimedia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastienLhuaire/Passerelle_de_memoire.git"
+  },
+  "author": "Bastien Lhuaire, Felix Nahon, Yona Berrebi, Joffrey Arnoult ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BastienLhuaire/Passerelle_de_memoire/issues"
+  },
+  "homepage": "https://github.com/BastienLhuaire/Passerelle_de_memoire#readme",
+  "dependencies": {
+    "materialize-css": "^0.97.8",
+    "jquery": "^3.1.1"
+  }
+}
